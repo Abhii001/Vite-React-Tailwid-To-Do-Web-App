@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 To star the project go to project folder  ../ViteToDoReactTailwind and run server start command
 
-npn run dev
+npm run dev
 
 github link -- https://github.com/Abhii001/Vite-React-Tailwid-To-Do-Web-App.git
